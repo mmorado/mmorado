@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mmorado
 - 👀 I’m interested in machine learning and computational mathematics research.
-- 🌱 I’m currently learning about neural networks and looking forward to exploring convolutional neural networks
+- 🌱 I’m currently learning about neural networks and looking forward to exploring convolutional neural networks and Generative Adversary Networks (GANs)
 - 📫 How to reach me: marissamorado1@gmail.com
 
 <!---
